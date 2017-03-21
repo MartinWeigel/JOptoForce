@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JOptoForce.iml" filepath="$PROJECT_DIR$/.idea/modules/JOptoForce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JOptoForce_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JOptoForce_main.iml" group="JOptoForce" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JOptoForce_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JOptoForce_test.iml" group="JOptoForce" />
+    </modules>
+  </component>
+</project>
